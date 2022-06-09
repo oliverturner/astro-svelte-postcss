@@ -11,7 +11,7 @@
   "devDependencies": {
     "@astrojs/svelte": "^0.1.4",
     "astro": "^1.0.0-beta.42",
-    "postcss-preset-env": "latest"
+    "postcss-preset-env": "^7.7.1"
   },
   "dependencies": {
     "svelte": "^3.48.0"
